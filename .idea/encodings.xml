@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/day_1" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/day_2" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/day_3_springboot_jdbc" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/day_4_Springboot_Druid" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/day_5_SpringBoot_Mybatis" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/day_6_Springboot_Springsecurity" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/day_7_springboot_swagger" charset="UTF-8" />
+  </component>
+</project>
