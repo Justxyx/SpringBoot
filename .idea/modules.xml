@@ -3,8 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/SpringBoot.iml" filepath="$PROJECT_DIR$/SpringBoot.iml" />
-      <module fileurl="file://$PROJECT_DIR$/day_1/day_1.iml" filepath="$PROJECT_DIR$/day_1/day_1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/day_2/day_2.iml" filepath="$PROJECT_DIR$/day_2/day_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day_1_SpringBoot_快速手脚架/day_1.iml" filepath="$PROJECT_DIR$/day_1_SpringBoot_快速手脚架/day_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day_2_SpringBoot_增删改查demo/day_2.iml" filepath="$PROJECT_DIR$/day_2_SpringBoot_增删改查demo/day_2.iml" />
       <module fileurl="file://$PROJECT_DIR$/day_3_springboot_jdbc/day_3_springboot_jdbc.iml" filepath="$PROJECT_DIR$/day_3_springboot_jdbc/day_3_springboot_jdbc.iml" />
       <module fileurl="file://$PROJECT_DIR$/day_4_Springboot_Druid/day_4_Springboot_Druid.iml" filepath="$PROJECT_DIR$/day_4_Springboot_Druid/day_4_Springboot_Druid.iml" />
       <module fileurl="file://$PROJECT_DIR$/day_5_SpringBoot_Mybatis/day_5_SpringBoot_Mybatis.iml" filepath="$PROJECT_DIR$/day_5_SpringBoot_Mybatis/day_5_SpringBoot_Mybatis.iml" />
